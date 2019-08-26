@@ -1,8 +1,12 @@
 
-// global
+// global dependencies
 import React from 'react'
 
-export default ({ name, message }) =>
+const ChatMessage = ({ name, message }) => (
   <p>
     <strong>{name}</strong> <em>{message}</em>
   </p>
+);
+
+
+export default ChatMessage;
