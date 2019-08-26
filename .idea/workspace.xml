@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cad0e25-7108-4c25-832e-b3a4838046eb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/ChatInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/ChatInput.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Chat.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/Chat.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,13 +24,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/frontend/src/components/ChatInput.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
               <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/frontend/src/components/Chat.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="55" column="24" lean-forward="true" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
+              <folding>
+                <element signature="e#75#110#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -73,6 +84,7 @@
         <option value="$PROJECT_DIR$/frontend/src/components/ChatMessage.js" />
         <option value="$PROJECT_DIR$/frontend/src/components/ChatInput.js" />
         <option value="$PROJECT_DIR$/frontend/src/components/string.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/Chat.js" />
       </list>
     </option>
   </component>
@@ -184,12 +196,12 @@
       <updated>1565204275163</updated>
       <workItem from="1565204276733" duration="1953000" />
       <workItem from="1566723856713" duration="300000" />
-      <workItem from="1566724503533" duration="6909000" />
+      <workItem from="1566724503533" duration="7133000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9162000" />
+    <option name="totallyTimeSpent" value="9386000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -204,7 +216,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19027181" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19027181" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Storybook" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -419,6 +431,16 @@
           <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/Chat.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="55" column="24" lean-forward="true" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
+          <folding>
+            <element signature="e#75#110#0" expanded="true" />
           </folding>
         </state>
       </provider>
